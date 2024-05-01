@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-  <p align="right"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="md-ismaeel" width='400px' /> </p>
+  <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="md-ismaeel" width='400px' align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
