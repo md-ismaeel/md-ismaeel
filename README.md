@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="md-ismaeel" /> </p>
 
+
 - 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Node.js**
@@ -12,6 +13,8 @@
 - 📫 How to reach me **mdismaeelkhan345@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+
+  <p align="right"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="md-ismaeel" width='400px' /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-ismaeel&show_icons=true&locale=en&layout=compact" alt="md-ismaeel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ismaeel&" alt="md-ismaeel" /></p>
+
