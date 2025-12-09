@@ -91,10 +91,16 @@
   <!-- Top Languages (UPDATED) -->
  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
   
-  ## 🐍 Snake Contribution Animation
-  <img src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg" />
+ ## 🐍 Snake Contribution Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
+</picture>
   
-  ## 🌌 3D Contribution Graph
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d/main/assets/profile-night-view.svg" width="600" />
+ ## 🌌 3D Contribution Graph
+<a href="https://skyline.github.com/Md-ismaeel/2024">
+  <img src="https://github.com/Md-ismaeel/Md-ismaeel/assets/YOUR_ASSET_ID/your-skyline.png" width="600" />
+</a>
 </div>
 
