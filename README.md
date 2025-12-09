@@ -84,8 +84,7 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
   <br />
-  <!-- Streak Stats (UPDATED) -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-ismaeel&theme=dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" />
   
   <br />
   <!-- Top Languages (FIXED MIRROR) -->
