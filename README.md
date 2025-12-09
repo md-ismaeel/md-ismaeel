@@ -79,28 +79,18 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 🚀 GitHub Statistics
+## 📊 GitHub Statistics
 <div align="">
   <!-- GitHub Stats (UPDATED) -->
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
-  <br />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
   <!-- Streak Stats (WORKING) -->
   <img height="170" src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" />
+   <!-- Top Languages (UPDATED) -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
   
-  <br />
-  <!-- Top Languages (UPDATED) -->
- <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
-  
- ## 🐍 Snake Contribution Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
-</picture>
-  
- ## 🌌 3D Contribution Graph
-<a href="https://skyline.github.com/Md-ismaeel/2024">
-  <img src="https://github.com/Md-ismaeel/Md-ismaeel/assets/YOUR_ASSET_ID/your-skyline.png" width="600" />
-</a>
-</div>
-
+  ## 📈 Contribution Graph
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg">
+  </picture>
