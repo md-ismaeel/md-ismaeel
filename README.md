@@ -3,20 +3,14 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   Hi there, I'm <span style="color:#00FFFF;">Md Ismaeel</span>
 </h1>
-
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
-
 <br />
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-MERN_Stack-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Expertise-Full_Stack_DevOps-blueviolet?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MERN_Stack-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expertise-Full_Stack_DevOps-blueviolet?style=for-the-badge" />
 </div>
-
----
 
 ## Connect With Me
 
@@ -28,8 +22,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-ismaeel)
 
 </div>
-
----
 
 # Tech Stack & Tools
 
@@ -86,41 +78,28 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 # GitHub Statistics
 
 <div align="center">
-
-<!-- GitHub Stats FIXED -->
+<!-- GitHub Stats -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
-
 <br />
-
-<!-- GitHub Streak FIXED -->
+<!-- Streak Stats -->
 <img height="170" src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" />
 
 <br />
-
-<!-- Top Languages FIXED -->
+<!-- Top Languages -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
 
-# 🐍 Snake Contribution Animation  
+## 🐍 Snake Contribution Animation
 <img src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 
----
-
-# 🌌 3D Contribution Graph  
+## 🌌 3D Contribution Graph
 <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d/main/assets/profile-night-view.svg" width="600" />
 
 </div>
 
----
-
-**GitHub Profile:**  
-👉 https://github.com/Md-ismaeel
-
----
 
 # Let's Build Something Amazing Together!  
 Feel free to reach out for collaborations or a friendly tech chat!
