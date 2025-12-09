@@ -1,12 +1,12 @@
 <!-- HEADER -->
-<h1 align="center">
+<h1 align="">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   Hi there, I'm <span style="color:#00FFFF;">Md Ismaeel</span>
 </h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
+<h3 align="">Full-Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
 <br />
 
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-MERN_Stack-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expertise-Full_Stack_DevOps-blueviolet?style=for-the-badge" />
@@ -14,7 +14,7 @@
 
 ## Connect With Me
 
-<div align="center">
+<div align="">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ismail_15_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ismaeel)
@@ -79,27 +79,32 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# GitHub Statistics
+## 🚀 GitHub Statistics
 
 <div align="center">
-<!-- GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
+
+<!-- GitHub Stats (FIXED MIRROR) -->
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
+
 <br />
+
 <!-- Streak Stats -->
 <img height="170" src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" />
 
 <br />
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
+
+<!-- Top Languages (FIXED MIRROR) -->
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
+
+---
 
 ## 🐍 Snake Contribution Animation
 <img src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+
+---
 
 ## 🌌 3D Contribution Graph
 <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d/main/assets/profile-night-view.svg" width="600" />
 
 </div>
 
-
-# Let's Build Something Amazing Together!  
-Feel free to reach out for collaborations or a friendly tech chat!
