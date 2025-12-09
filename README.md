@@ -80,15 +80,16 @@
 
 
 ## 🚀 GitHub Statistics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
+<div align="">
+  <!-- GitHub Stats (UPDATED) -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true" />
   <br />
+  <!-- Streak Stats (WORKING) -->
   <img height="170" src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" />
   
   <br />
-  <!-- Top Languages (FIXED MIRROR) -->
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
+  <!-- Top Languages (UPDATED) -->
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
   
   ## 🐍 Snake Contribution Animation
   <img src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg" />
