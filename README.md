@@ -35,30 +35,23 @@ currently  : Building production-grade full-stack applications
 **⚡ Frontend**
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-**🎨 UI & Styling**
 [![UI](https://skillicons.dev/icons?i=tailwind,materialui&theme=dark)](https://skillicons.dev)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white&style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-**🔧 State Management**
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-**🗄️ Backend & Databases**
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,mysql&theme=dark)](https://skillicons.dev)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B00?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**☁️ DevOps & Cloud**
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,jenkins&theme=dark)](https://skillicons.dev)
 
-**🛠️ Tools & Systems**
 [![Tools](https://skillicons.dev/icons?i=linux,bash,py,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
-
----
 
 ## 📊 GitHub Stats
 
@@ -70,8 +63,6 @@ currently  : Building production-grade full-stack applications
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="220"/>
 
----
-
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-ismaeel&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%"/>
@@ -81,8 +72,6 @@ currently  : Building production-grade full-stack applications
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
----
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
