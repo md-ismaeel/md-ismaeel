@@ -1,8 +1,9 @@
+
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,30:0a0f2e,60:0d1f4f,85:0a3d7c,100:00b4d8&height=260&section=header&text=Md%20Ismaeel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=62&descColor=90e0ef&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,30:0a0f2e,60:0d1f4f,85:0a3d7c,100:00b4d8&height=260&section=header&text=Md%20Ismaeel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer&descAlignY=62&descColor=90e0ef&descSize=17" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=false&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there!+I'm+Md+Ismaeel+%F0%9F%91%8B;MERN+Stack+%7C+DevOps+%7C+Cloud+Engineer+%E2%98%81%EF%B8%8F;Building+scalable+apps+%26+pipelines+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Turning+complex+problems+into+clean+code+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=false&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there!+I'm+Md+Ismaeel+%F0%9F%91%8B;MERN+Stack+%7C+Cloud+Engineer+%E2%98%81%EF%B8%8F;Building+scalable+apps+%F0%9F%9A%80;Turning+complex+problems+into+clean+code+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +33,6 @@ currently  : Building production-grade full-stack applications
 
 ## 🧰 Tech Stack
 
-**⚡ Frontend**
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
 [![UI](https://skillicons.dev/icons?i=tailwind,materialui&theme=dark)](https://skillicons.dev)
@@ -55,13 +55,13 @@ currently  : Building production-grade full-stack applications
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Ismaeel%27s+GitHub+Stats" height="175"/>
+<div class="flex">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Ismaeel%27s+GitHub+Stats" height="175"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=tokyonight&hide_border=true" height="175"/>
 
-<br/>
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="220"/>
+</div>
 
 ## 📈 Contribution Activity
 
