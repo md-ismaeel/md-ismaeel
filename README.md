@@ -43,15 +43,15 @@
 
 ## 📊 GitHub Stats
 <div class="flex">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Ismaeel%27s+GitHub+Stats" height="175"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-ismaeel&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Ismaeel%27s+GitHub+Stats" height="175"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Md-ismaeel&theme=dark&hide_border=true" height="175"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=dark&layout=compact&hide_border=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-ismaeel&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="220"/>
 </div>
 
 ## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-ismaeel&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-ismaeel&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg"/>
@@ -59,6 +59,6 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Md-ismaeel/Md-ismaeel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d7c,100:03040a&height=120&section=footer" width="100%"/>
