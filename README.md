@@ -1,5 +1,5 @@
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,30:0a0f2e,60:0d1f4f,85:0a3d7c,100:00b4d8&height=260&section=header&text=Md%20Ismaeel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack Developer | DevOps Enthusiast&descAlignY=62&descColor=90e0ef&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,30:0a0f2e,60:0d1f4f,85:0a3d7c,100:00b4d8&height=260&section=header&text=Md+Ismaeel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack+Developer+%7C+DevOps+Enthusiast&descAlignY=62&descColor=90e0ef&descSize=17" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=false&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there!+I'm+Md+Ismaeel+%F0%9F%91%8B;MERN+Stack+%7C+Cloud+Engineer;Building+scalable+apps;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
