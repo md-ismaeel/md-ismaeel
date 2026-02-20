@@ -25,9 +25,6 @@
 | 💼 **Role** | Full-Stack Developer & DevOps Enthusiast |
 | ⚡ **Stack** | MERN Stack — MongoDB · Express · React · Node.js |
 | ☁️ **Learning** | AWS · Docker · Kubernetes · Terraform · CI/CD |
-| 🔥 **Passion** | Clean Architecture · Scalable Systems · Open Source |
-| 🚀 **Currently** | Building production-grade full-stack applications |
-| 🎯 **Goal** | Becoming a Cloud-Native Full-Stack Engineer |
 
 ## 🧰 Tech Stack
 
